@@ -26,4 +26,4 @@
 
 运行： 
 
-`docker run -d -p 2333:2333 ssdocker:latest`
+`docker run -d -p 2333:2333 ss-docker:latest`
